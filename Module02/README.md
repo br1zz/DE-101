@@ -13,7 +13,7 @@
 - [orders.sql](https://github.com/br1zz/DE-101/tree/main/Module02/files/orders.sql)
 - [returns.sql](https://github.com/br1zz/DE-101/tree/main/Module02/files/returns.sql)
 ### Аналитика в SQL
-Файл с аналитикой: [analytics.sql](https://github.com/br1zz/DE-101/tree/main/Module02/files/returns.sql)
+Файл с аналитикой: [analytics.sql](https://github.com/br1zz/DE-101/tree/main/Module02/files/analytics.sql)
 
 Список вычисленных метрик:
 - Total Sales

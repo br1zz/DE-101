@@ -26,3 +26,12 @@
 - Customer ranking
 - Monthly Sales by Segment
 - Monthly Sales by Product Category
+
+## 2.4: Модели Данных
+### Изображения моделей данных
+- [Концептуальная](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/conceptual.jpg)
+- [Логическая](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/logical.jpg)
+- [Физическая](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/phisical.jpg)
+### Практика
+- [DDL](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/ddl_super_store_dim.sql)
+- [Заполнение таблиц](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/filling_tables_m2.4.sql)

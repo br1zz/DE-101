@@ -35,3 +35,10 @@
 ### Практика
 - [DDL](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/ddl_super_store_dim.sql)
 - [Заполнение таблиц](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.4/filling_tables_m2.4.sql)
+## 2.5: База данных в облаке
+### Практика
+Обновленные модели данных и данные для загрузки в облачную БД
+- [DDL](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/ddl_dw.sql)
+- [Заполнение таблиц](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/filling_dw.sql)
+- [Сырые данные. Таблица orders](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/stg.orders.sql)
+- [Сырые данные. Таблица returns](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/stg.returns.sql)

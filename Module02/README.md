@@ -42,3 +42,9 @@
 - [Заполнение таблиц](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/filling_dw.sql)
 - [Сырые данные. Таблица orders](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/stg.orders.sql)
 - [Сырые данные. Таблица returns](https://github.com/br1zz/DE-101/tree/main/Module02/files/2.5/stg.returns.sql)
+## 2.6: Как донести данные до бизнес-пользователя
+### Практика
+ Goole Data Studio - [ссылка на отчет](https://datastudio.google.com/s/syYGsk-umQk)  
+Klipfolio - [ссылка на отчет](https://app.klipfolio.com/trends/dashboard/751e2d22e6836cece71c2a7922a4911d). Для просмотра требуется авторизация в klipfolio.
+### Изучение дополнительных материалов
+Сертификат Introduction to Data Studio 
